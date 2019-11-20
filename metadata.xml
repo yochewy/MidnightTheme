@@ -5,6 +5,6 @@
   name="Midnight" >
   <Contents>
     <Item key="colors" path="colors.JSON" />
-
+    <Item key="logo" path="OMNI CONTRAIL.png" />
   </Contents>
 </SystemResourcePackage>
